@@ -14,6 +14,9 @@
                                     </soc-but-components>##
                                    
 3. При желании в компоненте SocButComponents можно добавить свои соц сети. Популярные ресурсы с их адресами добавления постов, я приложу ниже.
-https://twitter.com/intent/tweet?text={текст твита}&url={адрес страницы}&via={имя пользователя}
-https://www.facebook.com/sharer/sharer.php?u={адрес страницы}
-https://t.me/share/url?url={адрес страницы}&text={заголовок страницы}
+
+##https://twitter.com/intent/tweet?text={текст твита}&url={адрес страницы}&via={имя пользователя}##
+
+##https://www.facebook.com/sharer/sharer.php?u={адрес страницы}##
+
+##https://t.me/share/url?url={адрес страницы}&text={заголовок страницы}##
